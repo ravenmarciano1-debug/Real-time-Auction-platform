@@ -4,7 +4,7 @@
 # Next Auctions – Real-Time Full-Stack Auction Platform
 
 A real-time auction platform built with Next.js, TypeScript, Supabase, Lingui, and Stripe. Features live bidding, payments, notifications, and responsive design.
-
+This is for test
 > I built GavL – Next Auctions to challenge myself with **real-time full-stack development**: **Next.js** + **TypeScript** for the frontend, **Supabase** for **live data** and **notifications**, and **Stripe** for payments. The goal was to create a complete, production-style auction platform handling **multi-user bidding**, **server-side filters**, **real-time notifications**, and a **responsive**, **multilingual** UI. This project covers the full auction lifecycle—from creation to payment—showcasing backend workflows, frontend UX, and live updates across multiple clients.
 
 ---
